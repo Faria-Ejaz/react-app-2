@@ -1,0 +1,69 @@
+
+.header {
+    text-align: center;
+    background-color: #414852 !important;
+    padding-top: 2.5rem !important;
+    color: white !important;
+    padding-left: 2.5rem !important;
+    padding-bottom: 0.6875rem !important;
+    font-size: 20px !important;
+    font-weight: 700 !important;
+  }
+
+  .h4{
+    font-size: 20px !important;
+    font-weight: 700 !important;
+  }
+  
+  .btn-1 {
+    background-color: #D57F5D !important;
+    color: #000000 !important;
+    font-weight: 700 !important;
+    font-size: 13px !important;
+    padding: 8px 16px !important;
+    border: none !important;
+    border-radius: 0rem !important;
+  }
+  
+  .btn-2 {
+    background-color: #ffffff !important;
+    color: #D57F5D !important;
+    font-weight: 700 !important;
+    font-size: 13px !important;
+    padding: 8px 16px !important;
+    border: none !important;
+    border-radius: 0rem !important;
+  }
+
+  .body {
+      color: rgba(0, 0, 0, 0.6);
+      padding-left: 2.5rem !important;
+      display: flex;
+      flex-direction: column;
+  }
+  .boxes{
+    display: flex ;
+    padding-top: 17px;
+  }
+
+  .box-1, .box-2 {
+    text-align: center;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;    
+    width: 190px;
+    height: 190px;     
+    margin-right: 16px;
+    background-color: rgb(245, 245, 245);
+    color: #000000;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+  }
+
+  .sub-text {
+      padding-top: 12.5px;
+      color: rgb(0, 145, 255);
+      font-size: 13px ;
+      font-weight: 400 ;
+
+  }
